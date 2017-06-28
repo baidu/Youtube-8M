@@ -53,6 +53,7 @@ Two-stream LSTM | 0.82172
 Two-stream GRU | 0.82366
 Fast-forward LSTM | 0.81885
 Fast-forward GRU | 0.81970
+Fast-forward LSTM (depth7) | 0.82750
 
 ## Citation
 
