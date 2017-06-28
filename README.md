@@ -1,15 +1,22 @@
-# PaddlePaddle Networks for Youtube-8M Video Understanding Challenge
+# Temporal Modeling Approaches for Large-scale Youtube-8M Video Understanding
+______________________________________________________________________________
 
-This repo describes the data providers and networks with PaddlePaddle, licensed under the Apache License 2.0.
+### By Fu Li, Chuang Gan, Xiao Liu, Yunlong Bian, Xiang Long, Yandong Li, Zhichao Li, Jie Zhou, Shilei Wen (Baidu IDL & Tsinghua University)
 
-## Dependencies
+Table of Contents
+0. Introduction
+1. Usage
+2. Results
+3. Citation
 
-PaddlePaddle 0.9.0 (https://github.com/PaddlePaddle/Paddle)
+## Introduction
+This repository contains the data providers and model configurations of three temporal modeling approaches (fast-forward sequence model, two stream sequence model and temporal residual neural networks) described in the paper "Temporal Modeling Approaches for Large-scale Youtube-8M Video Understanding" (xxx). 
+These model configurations are those used in the Google Cloud & YouTube-8M Video Understanding Challenge (https://www.kaggle.com/c/youtube8m/leaderboard).
 
-Python 2.7
+## Usage
+Dependencies of PaddlePaddle 0.9.0 (https://github.com/PaddlePaddle/Paddle) and Python 2.7.
 
-## Model Training
-
+### Model Training:
 ```
 cfg=your_config_file
 paddle_trainer \
@@ -23,8 +30,7 @@ paddle_trainer \
     --show_parameter_stats_period=100
 ```
 
-## Model Testing
-
+### Model Testing:
 ```
 cfg=your_config_file
 paddle_trainer \
@@ -38,4 +44,8 @@ paddle_trainer \
     --log_period=20 
 ```
 
+## Results
+xxx
 
+Citation
+xxx
