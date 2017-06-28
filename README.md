@@ -1,9 +1,9 @@
 # Temporal Modeling Approaches for Large-scale Youtube-8M Video Understanding
 ______________________________________________________________________________
 
-### By Fu Li, Chuang Gan, Xiao Liu, Yunlong Bian, Xiang Long, Yandong Li, Zhichao Li, Jie Zhou, Shilei Wen (Baidu IDL & Tsinghua University)
+By Fu Li, Chuang Gan, Xiao Liu, Yunlong Bian, Xiang Long, Yandong Li, Zhichao Li, Jie Zhou, Shilei Wen (Baidu IDL & Tsinghua University)
 
-Table of Contents
+## Table of Contents
 0. Introduction
 1. Usage
 2. Results
@@ -47,5 +47,5 @@ paddle_trainer \
 ## Results
 xxx
 
-Citation
+## Citation
 xxx
