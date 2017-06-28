@@ -45,7 +45,14 @@ paddle_trainer \
 ```
 
 ## Results
-xxx
+
+Model | GAP@20
+---------- | ----------
+Temporal CNN | 0.80889
+Two-stream LSTM | 0.82172
+Two-stream GRU | 0.82366
+Fast-forward LSTM | 0.81885
+Fast-forward GRU | 0.81970
 
 ## Citation
-xxx
+
