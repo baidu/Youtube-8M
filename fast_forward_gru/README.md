@@ -1,1 +1,1 @@
-This describes the fast forword GRU network.
+This describes the fast forward GRU network.

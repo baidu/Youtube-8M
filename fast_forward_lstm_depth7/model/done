@@ -1,0 +1,8 @@
+paddle version: 0.0.0
+	withGpu: true
+	withAvx: true
+	withPyDataProvider: true
+	withTimer: false
+	withFpga: false
+	real byte size: 4
+

@@ -1,1 +1,1 @@
-This describes the fast forword LSTM network.
+This describes the fast forward LSTM network.
